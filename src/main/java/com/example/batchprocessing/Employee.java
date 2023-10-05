@@ -18,7 +18,7 @@ public class Employee {
 	}
 	
 	//アクセサメソッド
-	public String getname() {
+	public String getName() {
 		return this.name;
 	}
 	
